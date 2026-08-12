@@ -1,0 +1,46 @@
+AI Augmented Workflow - Contribution Log
+
+Project Name: AI Augmented Workflow
+Project Type: Rule-Based Python Chatbot
+Author: Sharayu Savale
+Date: 12 August 2026
+
+Project Description:
+This project implements a simple interactive chatbot using Python.
+The chatbot accepts user input and provides predefined responses
+based on keywords entered by the user.
+
+Contributions:
+
+1. Created the chatbot function using Python.
+2. Implemented an interactive conversation using a while loop.
+3. Added user input handling using the input() function.
+4. Converted user input to lowercase for easier keyword matching.
+5. Added greeting responses for "hello" and "hi".
+6. Added a response for questions about the chatbot's name.
+7. Added a response explaining Artificial Intelligence.
+8. Added a response explaining Machine Learning.
+9. Added a response explaining Python.
+10. Added exit commands using "exit", "quit", and "bye".
+11. Added a default response for unrecognized questions.
+12. Tested the chatbot using PowerShell.
+13. Created README.md to document the project.
+14. Created logcontribution.txt to record project contributions.
+
+Technologies Used:
+- Python 3.14.7
+- Visual Studio Code
+- PowerShell
+- Git
+- GitHub
+
+Project Status:
+The basic rule-based chatbot has been successfully created
+and tested.
+
+Future Improvements:
+- Add more question-answer pairs.
+- Improve natural language understanding.
+- Connect the chatbot to an AI/LLM API.
+- Add voice input and output.
+- Develop a graphical or web interface.
